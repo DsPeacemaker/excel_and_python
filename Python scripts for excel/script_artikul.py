@@ -36,7 +36,7 @@ for i in range(7, max_row+1):
 sorted_dict = dict(sorted(dict_categories.items()))
 
 # Записываем в файл
-with open('category.txt', 'w') as file:
+with open('category.txt', 'w', encoding="UTF-8") as file:
     for key, value in sorted_dict.items():
         str_values = ', '.join(value)
         str_to_write = key + ' ' + str_values + '\n'
