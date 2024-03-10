@@ -39,8 +39,8 @@
 
 Итоговые вычисления
 
-![end](https://sun9-30.userapi.com/impg/UUn7BmSLjcdl1Rk6bEn8Al-x-WYOs19p0WBuTg/YTcBNMcXx2Q.jpg?size=496x335&quality=96&sign=bef5fcb4ffe2be79fbd0b2125a0e7b97&type=album)
-![]()
+![end](https://sun9-80.userapi.com/impg/kbviP4T9xy56DzhgS2UKzBMWTmEnXho7V3u-uA/4oRkO-4M1o8.jpg?size=448x318&quality=96&sign=034cd8d9cf2413a74fcbb157ecb233b2&type=album)
+
 
 ```
 
